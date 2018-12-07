@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/menubar"
+    app:title="Geather"
+    app:titleTextColor="#ffff"
+    android:id="@+id/toolbar"
+    app:popupTheme="@style/Widget.AppCompat.PopupMenu"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:elevation="4dp"
+    >
+
+</android.support.v7.widget.Toolbar>
